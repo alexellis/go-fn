@@ -7,3 +7,4 @@ functions:
     lang: golang-middleware
     handler: ./handler
     image: alexellis2/handler:0.1
+
